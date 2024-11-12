@@ -64,6 +64,11 @@ python3 scripts/classification.py checkpoints/benchmark-5m data/bbbp.csv p_np
 For language model pretraining, see
 [notebooks](https://github.com/sanjaradylov/smiles-gpt/tree/master/notebooks).
 
+# Project Documentation
+
+Please see the [checkpoint file](checkpoint.md) for more details on downloading the project checkpoint.
+
+
 ## Citation
 
 If you use `smiles-gpt` in your research, please consider citing
